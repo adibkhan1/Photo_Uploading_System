@@ -1,5 +1,5 @@
 # Photo_Uploading_System
-Web Technology Course Project using JavaScript
+A simple web-based application
 
 • Built using JavaScript, React.js, Node.js and MongoDB for the database.
 
